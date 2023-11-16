@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AniAtanasovaa
 - 👀 I’m interested in management, finance, advertising and coding
 - 🌱 I’m currently learning Java Web
-- 📫 How to reach me: aniatanasova_ga@abv.bg
+- 📫 How to reach me: anigeorgata@gmail.com
 
 <!---
 AniAtanasovaa/AniAtanasovaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
