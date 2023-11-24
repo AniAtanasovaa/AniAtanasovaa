@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AniAtanasovaa
-- 👀 I’m interested in management, finance, advertising and coding
+- 👀 I’m interested in coding, management, finance and advertising 
 - 🌱 I’m currently learning Java Web
 - 📫 How to reach me: anigeorgata@gmail.com
 
