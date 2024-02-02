@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AniAtanasovaa
 - 👀 I’m interested in coding, management, finance and advertising 
-- 🌱 I’m currently learning Java Web
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: anigeorgata@gmail.com
 
 <!---
